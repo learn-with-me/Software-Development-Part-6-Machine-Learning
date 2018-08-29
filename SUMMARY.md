@@ -17,4 +17,5 @@
   * [Graphs and Charts](statistics/graphs-and-charts.md)
   * [Probability](statistics/probability.md)
   * [Bayes Rule](statistics/bayes-rule.md)
+  * [Random Notes](statistics/random-notes.md)
 
