@@ -13,3 +13,5 @@
   * [Area & Perimeter](linear-algebra/area-and-perimeter.md)
   * [Formulae](linear-algebra/formulae.md)
   * [Random Notes](linear-algebra/random-notes.md)
+* [Statistics](statistics.md)
+
