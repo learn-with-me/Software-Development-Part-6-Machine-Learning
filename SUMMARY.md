@@ -18,4 +18,6 @@
   * [Probability](statistics/probability.md)
   * [Bayes Rule](statistics/bayes-rule.md)
   * [Random Notes](statistics/random-notes.md)
+  * [Course List](statistics/course-list.md)
+    * [Class 12th](statistics/course-list/class-12th.md)
 
