@@ -9,4 +9,5 @@
   * [Tool Shop](local-development/tool-shop.md)
 * [Data Science](data-science.md)
 * [Linear Algebra](linear-algebra.md)
+  * [Course Outline](linear-algebra/course-outline.md)
 
