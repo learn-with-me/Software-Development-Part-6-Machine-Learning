@@ -10,4 +10,7 @@
 * [Data Science](data-science.md)
 * [Linear Algebra](linear-algebra.md)
   * [Course Outline](linear-algebra/course-outline.md)
+  * [Area & Perimeter](linear-algebra/area-and-perimeter.md)
+  * [Formulae](linear-algebra/formulae.md)
+  * [Random Notes](linear-algebra/random-notes.md)
 
