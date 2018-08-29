@@ -17,8 +17,8 @@
   * [Graphs and Charts](statistics/graphs-and-charts.md)
   * [Probability](statistics/probability.md)
     * [Bayes Rule](statistics/probability/bayes-rule.md)
-  * [Bayes Rule](statistics/bayes-rule.md)
   * [Random Notes](statistics/random-notes.md)
   * [Course List](statistics/course-list.md)
     * [Class 12th](statistics/course-list/class-12th.md)
+    * [Class 11th](statistics/course-list/class-11th.md)
 
