@@ -14,4 +14,7 @@
   * [Formulae](linear-algebra/formulae.md)
   * [Random Notes](linear-algebra/random-notes.md)
 * [Statistics](statistics.md)
+  * [Graphs and Charts](statistics/graphs-and-charts.md)
+  * [Probability](statistics/probability.md)
+  * [Bayes Rule](statistics/bayes-rule.md)
 
