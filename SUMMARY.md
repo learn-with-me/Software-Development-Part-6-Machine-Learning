@@ -8,9 +8,8 @@
 * [Local Development](local-development/README.md)
   * [Tool Shop](local-development/tool-shop.md)
 * [Data Science](data-science.md)
-* [Linear Algebra](linear-algebra.md)
+* [Linear Algebra](linear-algebra/README.md)
   * [Course Outline](linear-algebra/course-outline.md)
   * [Area & Perimeter](linear-algebra/area-and-perimeter.md)
   * [Formulae](linear-algebra/formulae.md)
   * [Random Notes](linear-algebra/random-notes.md)
-
