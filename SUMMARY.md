@@ -21,4 +21,5 @@
   * [Course List](statistics/course-list.md)
     * [Class 12th](statistics/course-list/class-12th.md)
     * [Class 11th](statistics/course-list/class-11th.md)
+* [Machine Learning](machine-learning.md)
 
